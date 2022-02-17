@@ -1,6 +1,6 @@
 # Usage
 
-```
+```cpp
 #include <ostream>
 #include <chrono>
 #include "timer.hpp"
